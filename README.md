@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tolloviis
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning basics
+- 🌱 I’m currently learning mostly Python and C#
 - ⚡ Fun fact: No Facts
 
 <!---
